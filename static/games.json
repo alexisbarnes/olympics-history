@@ -1,6 +1,7 @@
 [
   {
     "Game": "1896 Athens, Greece",
+    "Year": "1896",
     "Photo": "<img src='../imgs/1896-greece.jpg'>",
     "Video": null,
     "Fact1": "Baron Pierre de Coubertin (1863-1937) was responsible for reviving the modern Olympic games.",
@@ -11,6 +12,7 @@
   },
   {
     "Game": "1900 Paris, France",
+    "Year": "1900",
     "Photo": "<img src='../imgs/1900-paris.jpg'>",
     "Video": null,
     "Fact1": "These games took place over 6 months because it was held during the Exposition Universelle World's Fair because it was the only way the games would be funded.",
@@ -21,6 +23,7 @@
   },
   {
     "Game": "1904 St. Louis, United States",
+    "Year": "1904",
     "Photo": "<img src='../imgs/1904-stlouis.jpg'>",
     "Video": null,
     "Fact1": "Although Coubertin (IOC President) vowed to never have another Olympics take place in a World's Fair, the St. Louis games were part of the Louisiana Purchase Exposition.",
@@ -31,6 +34,7 @@
   },
   {
     "Game": "1906 Athens, Greece",
+    "Year": "1906",
     "Photo": "<img src='../imgs/1906-athens'>",
     "Video": null,
     "Fact1": "This is considered part of the \"Interacalated Games\" (Inserted into the calendar). The Greek parliament passed a bill, saying that the games will be in Athens. So the IOC voted for a \"Regular Olympics\" and the \"Intercalated Games\" in Athens. Coubertin did not want this because it wasn't really the Olympics, but he was outvoted. This will be the only one of these games because Athens would fall into a series of Balkan wars.",
@@ -41,6 +45,7 @@
   },
   {
     "Game": "1908 London, United Kingdom",
+    "Year": "1908",
     "Photo": null,
     "Video": "<iframe width='560' height='315' src='https://www.youtube.com/embed/r6xU6DiRKCg' frameborder='0' allowfullscreen></iframe>",
     "Fact1": "These games are when there was a heightened interest in the Olympic games. There was patriotic tensions, mainly between the Great Britain and the United States.",
@@ -51,6 +56,7 @@
   },
   {
     "Game": "1912 Stockholm, Sweden",
+    "Year": "1912",
     "Photo": null,
     "Video": "<iframe width='560' height='315' src='https://www.youtube.com/embed/-yUhhAr6xAE' frameborder='0' allowfullscreen></iframe>",
     "Fact1": "This was the first games with countries from each continent. Japan, Egypt and Chile had athletes at these games.",
@@ -61,6 +67,7 @@
   },
   {
     "Game": "1920 Antwerp, Belgium",
+    "Year": "1920",
     "Photo": "<img src='../imgs/1920-antwerp.jpg'>",
     "Video": null,
     "Fact1": "Antwerp was selected because of its symbolic meaning after World War I. Belgium was neutral during the war, but Germany invaded. It was referred to as \"the rape of Belgium\" because of the stories of German soldiers raping women.",
@@ -71,6 +78,7 @@
   },
   {
     "Game": "1924 Paris, France",
+    "Year": "1924",
     "Photo": null,
     "Video": "<iframe width='560' height='315' src='https://www.youtube.com/embed/pW0vatl2gNI' frameborder='0' allowfullscreen></iframe>",
     "Fact1": "The games were held in Paris again because Coubertin announced his retirement as IOC president and wanted the games to be in Paris one last time.",
@@ -81,6 +89,7 @@
   },
   {
     "Game": "1928 Amsterdam, Netherlands",
+    "Year": "1928",
     "Photo": "<img src='../imgs/1928-amsterdam.jpg'>",
     "Video": null,
     "Fact1": "This is the first games we get the Olympic flame.",
@@ -91,6 +100,7 @@
   },
   {
     "Game": "1932 Los Angeles, United States",
+    "Year": "1932",
     "Photo": "<img src='../imgs/1932-losangeles.jpg'>",
     "Video": null,
     "Fact1": "These games were during the lowest point of the Great Depression. It started two days before the Bonus Army conflict.",
@@ -101,6 +111,7 @@
   },
   {
     "Game": "1936 Berlin, Germany",
+    "Year": "1936",
     "Photo": null,
     "Video": "<iframe width='560' height='315' src='https://www.youtube.com/embed/dVlaIJVAUq4' frameborder='0' allowfullscreen></iframe>",
     "Fact1": "These games are known as the Nazi Olympics. These were the most politicized games yet and considered most spectacular. Everyone in the IOC at the time considered these games the best Olympics yet.",
@@ -111,6 +122,7 @@
   },
   {
     "Game": "1948 London, United Kingdom",
+    "Year": "1948",
     "Photo": null,
     "Video": "<iframe width='560' height='315' src='https://www.youtube.com/embed/gEjlCJX77g0' frameborder='0' allowfullscreen></iframe>",
     "Fact1": "London was picked to host the games because of what the Nazi government did to it. These games were considered the \"Austerity Olympics\" because London was on a budget. No new stadiums were built and athletes were encouraged to bring their own food.",
@@ -121,6 +133,7 @@
   },
   {
     "Game": "1952 Helsinki, Finland",
+    "Year": "1952",
     "Photo": null,
     "Video": "<iframe width='560' height='315' src='https://www.youtube.com/embed/QvqJxPs1e-8' frameborder='0' allowfullscreen></iframe>",
     "Fact1": "This is the Soviet Union's first Olympic games. Joseph Stalin did not allow the Olympic torch in Soviet territory because he thought it was a U.S. spy. Also, Soveit athletes were not allowed to stay at the regular Olympic village.",
@@ -131,6 +144,7 @@
   },
   {
     "Game": "1956 Melbourne, Australia",
+    "Year": "1956",
     "Photo": null,
     "Video": "<iframe width='560' height='315' src='https://www.youtube.com/embed/RfJEUyyH52E' frameborder='0' allowfullscreen></iframe>",
     "Fact1": "1956 was a year of unrest and turmoil. The games were held under difficult conditions, such as the question of two Germanies and the question of two Chinas, the Suez Crisis, and the Hungarian Revolution.",
@@ -141,6 +155,7 @@
   },
   {
     "Game": "1960 Rome, Italy",
+    "Year": "1960",
     "Photo": null,
     "Video": "<iframe width='560' height='315' src='https://www.youtube.com/embed/v1_umU-Bizs' frameborder='0' allowfullscreen></iframe>",
     "Fact1": "Italians used Rome to think about the glories of ancient Rome and forget about the facist experiment during World War II.",
@@ -151,6 +166,7 @@
   },
   {
     "Game": "1964 Tokyo, Japan",
+    "Year": "1964",
     "Photo": null,
     "Video": "<iframe width='560' height='315' src='https://www.youtube.com/embed/qfqFog35FJM' frameborder='0' allowfullscreen></iframe>",
     "Fact1": "The Olymics games begin to get expensive. Tokyo spent $2.8 billion and used the games as a way to transform the nation. Yoshinori Saka was born on Aug. 6, 1945, the day the United States bombed Hiroshima. He was given the honor of being the torchbearer who lit the cauldron.",
@@ -161,6 +177,7 @@
   },
   {
     "Game": "1968 Mexico City, Mexico",
+    "Year": "1968",
     "Photo": null,
     "Video": "<iframe width='560' height='315' src='https://www.youtube.com/embed/dykBBhaoczg' frameborder='0' allowfullscreen></iframe>",
     "Fact1": "In the U.S. and Europe, people are watching the games on colored TV.",
@@ -171,6 +188,7 @@
   },
   {
     "Game": "1972 Munich, West Germany",
+    "Year": "1972",
     "Photo": null,
     "Video": "<iframe width='560' height='315' src='https://www.youtube.com/embed/lTqZPKZ4_wk' frameborder='0' allowfullscreen></iframe>",
     "Fact1": "This is the first games with a mascot. The mascot for this games was Waldi.",
@@ -181,6 +199,7 @@
   },
   {
     "Game": "1976 Montreal, Canada",
+    "Year": "1976",
     "Photo": null,
     "Video": "<iframe width='560' height='315' src='https://www.youtube.com/embed/Yl9QpC8_LiE' frameborder='0' allowfullscreen></iframe>",
     "Fact1": "This is the first games to be an economic disaster. The Montreal Olympic Committee spent $1.5 billion for these games. Most of the problem was something called the \"Edifice Complex.\" That is when cities are caught of building new, extravagent venues instead of using ones that already exist. This will be something that will be a problem for future host cities of the Olympic games. Montreal was $1 billion in debt after the games, which gutted the economy. Citizens of Montreal spent three decades paying off the games.",
@@ -191,6 +210,7 @@
   },
   {
     "Game": "1980 Moscow, Soviet Union",
+    "Year": "1980",
     "Photo": null,
     "Video": "<iframe width='560' height='315' src='https://www.youtube.com/embed/xuopw84Ozok' frameborder='0' allowfullscreen></iframe>",
     "Fact1": "This is the first games in a communist country. There was an immediate call for a boycott in the United States. The loudest voice for the boycott was Ronald Raegan. The United States did not send athletes to Moscow along with 24 other nations. Fifteen countries marched under the Olympic flag.",
@@ -201,6 +221,7 @@
   },
   {
     "Game": "1984 Los Angeles, United States",
+    "Year": "1984",
     "Photo": null,
     "Video": "<iframe width='560' height='315' src='https://www.youtube.com/embed/7fg-fz8ugF4' frameborder='0' allowfullscreen></iframe>",
     "Fact1": "In response to the previous boycott, 14 Easter bloc countries, such as Soviet Union, Cuba and East Germany, boycotted the games.",
@@ -211,6 +232,7 @@
   },
   {
     "Game": "1988 Seoul, South Korea",
+    "Year": "1988",
     "Photo": null,
     "Video": "<iframe width='560' height='315' src='https://www.youtube.com/embed/8sKB8955n4U' frameborder='0' allowfullscreen></iframe>",
     "Fact1": "The year before the games the middle-class protested for democracy in what will known as the June Democratic Uprising (1987). The president of South Korea, Chung Doo-howan, response was that political freedom would be discussed after the games. Then a full-scale rebellion happened after his decision. There were a quarter of million protestors who used the games to their advantage for political change. The IOC threatened to pull the games, so the South Korean government decided to compromise and give the people elections, freedom of the press and amnesty to protestors. The IOC of course patted itself on the back for this even though they claimed to be free of politics.",
@@ -221,6 +243,7 @@
   },
   {
     "Game": "1992 Barcelona, Spain",
+    "Year": "1992",
     "Photo": null,
     "Video": "<iframe width='560' height='315' src='https://www.youtube.com/embed/mwmSrPIDf0k' frameborder='0' allowfullscreen></iframe>",
     "Fact1": "This was the year of professional athletes. This is the first games that did not require athletes to be amateur. The most popular athletes at these games were the Dream Team, the United States men's basketball team, lead by Magic Johnson, Larry Bird, Michael Jordan and Patrick Ewing.",
@@ -231,6 +254,7 @@
   },
   {
     "Game": "1996 Atlanta, United States",
+    "Year": "1996",
     "Photo": null,
     "Video": "<iframe width='560' height='315' src='https://www.youtube.com/embed/kRgyYnWSryE' frameborder='0' allowfullscreen></iframe>",
     "Fact1": "The mascot for these games, Whatizit, was easily the most hated mascot.",
@@ -241,6 +265,7 @@
   },
   {
     "Game": "2000 Sydney, Australia",
+    "Year": "2000",
     "Photo": null,
     "Video": "<iframe width='560' height='315' src='https://www.youtube.com/embed/XMrPjl-927Q' frameborder='0' allowfullscreen></iframe>",
     "Fact1": "Australia used these games to reconcile its relationship with the Aboriginal population. Cathy Freeman, an Australian 400m runner and Aboriginal, was honored with lighting the cauldron. She was the first competitor ever to light the cauldron and then go on to win a gold medal.",
@@ -251,6 +276,7 @@
   },
   {
     "Game": "2004 Athens, Greece",
+    "Year": "2004",
     "Photo": null,
     "Video": "<iframe width='560' height='315' src='https://www.youtube.com/embed/ewHAev54Qkg' frameborder='0' allowfullscreen></iframe>",
     "Fact1": "It was originally said that the games would cost $4 billion, but it ended up costing $16 billion. The main reason for the price increase was Sept. 11th. The bill for security for the Olympic games dramatically increased. The U.S. spent $34 million for U.S. athletes.",
@@ -261,6 +287,7 @@
   },
   {
     "Game": "2008 Beijing, China",
+    "Year": "2008",
     "Photo": null,
     "Video": "<iframe width='560' height='315' src='https://www.youtube.com/embed/1jx6vHR0tgQ' frameborder='0' allowfullscreen></iframe>",
     "Fact1": "The IOC thought giving the games to Beijing would bring democracy like it did in South Korea, but that did not happen. The government allowed for protest zones, but organizations had to apply to get a permit to protest. Seventy-two organizations applied and they all were denied. Also, some people who applied were approached later and sentenced to hard labor.",
@@ -271,6 +298,7 @@
   },
   {
     "Game": "2012 London, United Kingdom",
+    "Year": "2012",
     "Photo": null,
     "Video": "<iframe width='560' height='315' src='https://www.youtube.com/embed/8rjeBrriB0c' frameborder='0' allowfullscreen></iframe>",
     "Fact1": "A major problem at the games was traffic. There was 250 miles of Olympic VIP lanes that was strictly for IOC members, athletes and corporate sponsors.",
@@ -281,6 +309,7 @@
   },
   {
     "Game": "2016 Rio de Janerio",
+    "Year": "2016",
     "Photo": null,
     "Video": "<iframe width='560' height='315' src='https://www.youtube.com/embed/SXiLoFzBOkI' frameborder='0' allowfullscreen></iframe>",
     "Fact1": "The biggest controversy surrounding the Rio games was that the government did not have money for schools and other needs for the people of Rio, but they took the games built an Olympic park. 60,000 people were pushed out of their homes.",
