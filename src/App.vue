@@ -5,7 +5,6 @@
     <div class="col-md-2">
       <div class="timeline">
         <ul>
-
             <li v-for="game in allGames" :game="game">
               <div>
               </div>

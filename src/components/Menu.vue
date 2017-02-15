@@ -1,14 +1,12 @@
 <template>
-  <div class="Menu">
-    <ol>
-      <li v-for="game in allGames" :game="game">
-        {{ game.Year }}
-        <span class="details">
-            {{ game.Game }}
-        </span>
-      </li>
-
-    </ol>
+  <div class="timeline">
+    <ul>
+        <li v-for="game in allGames" :game="game">
+          <div>
+          </div>
+          <p class="menu-year"> {{ game.Year }} </p>
+        </li>
+    </ul>
   </div>
 </template>
 
