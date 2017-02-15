@@ -15,8 +15,21 @@ export default {
 
   data () {
     return {
-      currentGame: ''
+      currentTitle: '',
+      currentYear: '',
+      currentPhoto: '',
+      currentVideo: '',
+      currentFact1: '',
+      currentFact2: '',
+      currentFact3: '',
+      currentFact4: '',
+      currentMedal: ''
     }
+  },
+  methods: {
+    this.game.push({
+      currentTitle: this.Game
+    })
   }
 }
 
