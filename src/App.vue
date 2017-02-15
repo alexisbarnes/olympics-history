@@ -5,12 +5,12 @@
     <div class="col-md-2">
       <div class="timeline">
         <ul>
-
-            <li v-for="game in allGames" :game="game" :onclick="selectedGame">
-              <div>
-              </div>
-              <p class="menu-year"> {{ selectedGame }} </p>
-            </li>
+          <!-- <li v-for="game in allGames" :game="game" :onclick="selectedGame"> -->
+          <li v-for="game in allGames" :game="game">
+            <div>
+            </div>
+            <p class="menu-year"> {{ game.Year }} </p>
+          </li>
         </ul>
       </div>
     </div>
@@ -45,11 +45,6 @@ export default {
         this.allGames = response.data
         // console.log(this.allGames)
       })
-  },
-
-  methods: {
-    
-
   }
 }
 
