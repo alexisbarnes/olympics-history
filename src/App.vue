@@ -7,7 +7,7 @@
     </div>
 
     <div class="col-md-10">
-      <Game v-for="game in allGames" :game="game"><Game>
+      <Game v-for="(game, index) in allGames" :game="game"> {{ currentGame(game) }} <Game>
     </div>
   </div>
 </template>
@@ -31,8 +31,13 @@ export default {
     axios.get('/static/games.json')
       .then((response) => {
         this.allGames = response.data
-        // console.log(this.allGames)
+        // console.log(this.allGames[0].Year)
       })
+  },
+  methods: {
+    currentGame (game) {
+      return `${game.Game}`
+    }
   }
 }
 </script>

@@ -17,7 +17,12 @@ export default {
   ],
   data () {
     return {
-      allGames: []
+      allGames: [],
+      currentGame: ''
+    }
+  },
+  methods: {
+    currentGame () {
     }
   }
 }
