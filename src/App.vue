@@ -6,10 +6,10 @@
       <div class="timeline">
         <ul>
 
-            <li v-for="game in allGames" :game="game">
+            <li v-for="game in allGames" :game="game" :onclick="selectedGame">
               <div>
               </div>
-              <p class="menu-year"> {{ game.Year }} </p>
+              <p class="menu-year"> {{ selectedGame }} </p>
             </li>
         </ul>
       </div>
@@ -32,6 +32,7 @@ export default {
     Game,
     Menu
   },
+
   data () {
     return {
       allGames: []
@@ -44,6 +45,11 @@ export default {
         this.allGames = response.data
         // console.log(this.allGames)
       })
+  },
+
+  methods: {
+    
+
   }
 }
 
