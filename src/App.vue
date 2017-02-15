@@ -5,12 +5,12 @@
     <div class="col-md-2">
       <div class="timeline">
         <ul>
-          <!-- <li v-for="game in allGames" :game="game" :onclick="selectedGame"> -->
-          <li v-for="game in allGames" :game="game">
-            <div>
-            </div>
-            <p class="menu-year"> {{ game.Year }} </p>
-          </li>
+
+            <li v-for="game in allGames" :game="game">
+              <div>
+              </div>
+              <p class="menu-year"> {{ game.Year }} </p>
+            </li>
         </ul>
       </div>
     </div>
@@ -25,20 +25,17 @@
 import axios from 'axios'
 import Game from './components/Game'
 import Menu from './components/Menu'
-
 export default {
   name: 'app',
   components: {
     Game,
     Menu
   },
-
   data () {
     return {
       allGames: []
     }
   },
-
   mounted () {
     axios.get('/static/games.json')
       .then((response) => {
@@ -47,14 +44,11 @@ export default {
       })
   }
 }
-
 </script>
 
 <style>
 #app {
-
 }
-
 *,
 *::before,
 *::after {
@@ -62,7 +56,6 @@ export default {
   padding: 0;
   box-sizing: border-box;
 }
-
 body {
   font: normal 16px/1.5 "Helvetica Neue", sans-serif;
   background: #fff;
@@ -70,9 +63,6 @@ body {
   overflow-x: hidden;
   padding-bottom: 50px;
 }
-
-
-
 /* TIMELINE */
 .timeline ul li {
   list-style-type: none;
@@ -82,16 +72,12 @@ body {
   padding-top: 50px;
   background: #000000;
 }
-
 .timeline ul li:hover {
   background: #D5002B;
 }
-
 .timeline ul .menu-year:hover {
   color: #D5002B;
 }
-
-
 .timeline ul li::after {
   content: '';
   position: absolute;
@@ -103,11 +89,8 @@ body {
   border-radius: 50%;
   background: inherit;
 }
-
 .menu-year {
     margin: -25px 0 0px 20px;
     float: left;
 }
-
-
 </style>

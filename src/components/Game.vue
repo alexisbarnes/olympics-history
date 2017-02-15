@@ -6,14 +6,17 @@
 
 <script>
 export default {
+
   props: [
+
     'game'
+
   ],
+
   data () {
     return {
 
     }
-
   }
 }
 
