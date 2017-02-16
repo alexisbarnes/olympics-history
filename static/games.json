@@ -2,46 +2,46 @@
   {
     "Game": "1896 Athens, Greece",
     "Year": "1896",
-    "Photo": "<img src='imgs/1896-greece.jpg'>",
+    "Photo": "/imgs/1896-greece.jpg",
     "Video": null,
     "Fact1": "Baron Pierre de Coubertin (1863-1937) was responsible for reviving the modern Olympic games.",
     "Fact2": "Although Coubertin revived the games, Demetrios Vikelas was the president of the International Olympic Committee (IOC) because he would be very influential in convincing the wealthy Greeks to pay for the games.",
     "Fact3": "During the 100m race, the organizers realized that people around the world do things differently. They argued about how to start to race, how to measure, and whether to run clockwise or counter-clockwise.",
     "Fact4": "The athletes who showed up had no specialty. Men showed up and tried whatever sport they wanted.",
-    "Medals": "<img src='imgs/1896-medalcount.png'>"
+    "Medals": "/imgs/1896-medalcount.png"
   },
   {
     "Game": "1900 Paris, France",
     "Year": "1900",
-    "Photo": "<img src='imgs/1900-paris.jpg'>",
+    "Photo": "/imgs/1900-paris.jpg",
     "Video": null,
     "Fact1": "These games took place over 6 months because it was held during the Exposition Universelle World's Fair because it was the only way the games would be funded.",
     "Fact2": "There were no medals handed out.",
     "Fact3": "The games were so lost in the World's Fair. Instead of being called Olympic competitions, the sporting events were called Competitions of Exhibitions. People didn't know if they were watching, participating or judging an Olympic sport.",
     "Fact4": "This was the first games women athletes competed in. They competed in two events: tennis and golf.",
-    "Medals": "<img src='imgs/1900-medalcount.png'>"
+    "Medals": "/imgs/1900-medalcount.png"
   },
   {
     "Game": "1904 St. Louis, United States",
     "Year": "1904",
-    "Photo": "<img src='imgs/1904-stlouis.jpg'>",
+    "Photo": "/imgs/1904-stlouis.jpg",
     "Video": null,
     "Fact1": "Although Coubertin (IOC President) vowed to never have another Olympics take place in a World's Fair, the St. Louis games were part of the Louisiana Purchase Exposition.",
     "Fact2": "The U.S. had 525 of the 617 competitors at the games. Therefore, these games were more of a compeition between U.S. athletic clubs because it was difficult for competitors overseas to travel to St. Louis.",
     "Fact3": "\"Primitive\" people were put on exhibit like a zoo during the World's Fair. James E. Sullivan (a founder of AAU) had an idea that they should participate in sports (which they never heard of). He did this to reinforce the idea of white superiority. Sullivan referred to this as the \"Special Olympics.\"",
     "Fact4": "Six months after the water polo match, two athletes died. The lagoon where the event was held was also where animal waste was disposed. ",
-    "Medals": "<img src='imgs/1904-medalcount.png'>"
+    "Medals": "/imgs/1904-medalcount.png"
   },
   {
     "Game": "1906 Athens, Greece",
     "Year": "1906",
-    "Photo": "<img src='imgs/1906-athens'>",
+    "Photo": "/imgs/1906-athens.jpg",
     "Video": null,
     "Fact1": "This is considered part of the \"Interacalated Games\" (Inserted into the calendar). The Greek parliament passed a bill, saying that the games will be in Athens. So the IOC voted for a \"Regular Olympics\" and the \"Intercalated Games\" in Athens. Coubertin did not want this because it wasn't really the Olympics, but he was outvoted. This will be the only one of these games because Athens would fall into a series of Balkan wars.",
     "Fact2": "The first parade of nations occurred during the opening ceremony.",
     "Fact3": "The first political protest happened at these games. Irish athletes wanted to march independently from Great Britain. Instead of wearing the blue blazers the other Great Britain athletes wore, they wore green blazers.",
     "Fact4": "Pete O' Conner, an Irish athlete, got silver for the long jump. During the flag ceremony, he climbed up the flag pole and pulled down Great Britain's flag and put up a green flag that said \"Erin Go Bragh (Ireland Forever).\"",
-    "Medals": "<img src='imgs/1906-medalcount.png'>"
+    "Medals": "/imgs/1906-medalcount.png"
   },
   {
     "Game": "1908 London, United Kingdom",
@@ -52,7 +52,7 @@
     "Fact2": "During the parade of nations, when nations walked passed the King, they dipped their flags. However, when the U.S. walked by the King, the U.S. shot putter carrying the flad did not dip the flag.",
     "Fact3": "The rules for the tug-of-war event says that competitors had to wear regulation footwear. In the match between the U.S. and Great Britain, the U.S. showed up in track shoes and Great Britain showed up in boots, so it's obvious who won that match.",
     "Fact4": "There was a controversial finish to the marathon. Watch above.",
-    "Medals": "<img src='imgs/1908-medalcount.png'>"
+    "Medals": "/imgs/1908-medalcount.png"
   },
   {
     "Game": "1912 Stockholm, Sweden",
@@ -63,18 +63,18 @@
     "Fact2": "Scoreboards, electronic timers, and photos of the finish were introduced at these games.",
     "Fact3": "Jim Thorpe, an native American, won the decathalon and pentathlon, which no one has ever done. He challenged James E. Sullivan's idea that an athlete is a white Protestant.",
     "Fact4": "After the games, there were accusations that Thorpe had been playing baseball for money. He had to return his medals, and the IOC pulled his name from the record books. At the 1982 games, the IOC gave his children some of his medals back, but his name are still not in the record books.",
-    "Medals": "<img src='imgs/1912-medalcount.png'>"
+    "Medals": "/imgs/1912-medalcount.png"
   },
   {
     "Game": "1920 Antwerp, Belgium",
     "Year": "1920",
-    "Photo": "<img src='imgs/1920-antwerp.jpg'>",
+    "Photo": "/imgs/1920-antwerp.jpg",
     "Video": null,
     "Fact1": "Antwerp was selected because of its symbolic meaning after World War I. Belgium was neutral during the war, but Germany invaded. It was referred to as \"the rape of Belgium\" because of the stories of German soldiers raping women.",
     "Fact2": "The IOC left the decision to invite the Central Powers to the games to Belgium. Germany, Austria and Turkey were not invited to the games.",
     "Fact3": "Belgium had one year to plan for these games. The stadium was not finished, and the games were poorly attended.",
     "Fact4": "The Olympic flag is flown for the first time at these game. An Olympic motto and gesture (which would eventually become controversial) was also created by 1924.",
-    "Medals": "<img src='imgs/1920-medalcount.png'>"
+    "Medals": "/imgs/1920-medalcount.png"
   },
   {
     "Game": "1924 Paris, France",
@@ -85,29 +85,29 @@
     "Fact2": "Paavo Nurmi, a Finland runner, won three gold medals. He is considered the first global star. He is the only man to hold the world record for the mile and 10K at the same time.",
     "Fact3": "Runners, Harold Abrahams (Great Britain) and Eric Liddell (Great Britain) were also stars of these games. Their running careers are depicted in the film \"Chariots of Fire\"",
     "Fact4": "The first winter games were held this year in Chamonix, France. The IOC did not care for these games because winter sports were not a part of the ancient games, there was already a winter games festival (Nordic Games), and the sports were specific to a group of people.",
-    "Medals": "<img src='imgs/1924-medalcount.png'>"
+    "Medals": "/imgs/1924-medalcount.png"
   },
   {
     "Game": "1928 Amsterdam, Netherlands",
     "Year": "1928",
-    "Photo": "<img src='imgs/1928-amsterdam.jpg'>",
+    "Photo": "/imgs/1928-amsterdam.jpg",
     "Video": null,
     "Fact1": "This is the first games we get the Olympic flame.",
     "Fact2": "Germany returns to these games since the 1920 games.",
     "Fact3": "Some women collapsed after the 800m race. The IOC then bans the 800m for women (the event does not return until the 1960s) because it \"proved\" that women were not able to run long distances. There isn't a women's marathon until 1984.",
     "Fact4": "The Olympics is being challenged by other sports movements, such as the Women's Olympics and the International Worker's Olympiad, which are inclusive to women and the working class. Both of these games were fairly successful. The IOC worked to offer more sports for women. The International Worker's Olympiad collapsed after World War II.",
-    "Medals": "<img src='imgs/1928-medalcount.png'>"
+    "Medals": "/imgs/1928-medalcount.png"
   },
   {
     "Game": "1932 Los Angeles, United States",
     "Year": "1932",
-    "Photo": "<img src='imgs/1932-losangeles.jpg'>",
+    "Photo": "/imgs/1932-losangeles.jpg",
     "Video": null,
     "Fact1": "These games were during the lowest point of the Great Depression. It started two days before the Bonus Army conflict.",
     "Fact2": "In 1927, a Olympian Bond Act was approved by the citizens of Los Angeles. The act said that the games would be paid for by a tax. The plan was fr $1 million to be used pay for the games. Then the stock market crashed in 1929. People then protested the games, but the protest were not very successful.",
     "Fact3": "The first Olympic Village appeared. Also, the invention of the three-level podium first appeared during these games.",
     "Fact4": "These games are seen as a big commercial to sell property. Palm trees were planted in L.A. to make it look more like paradise.",
-    "Medals": "<img src='imgs/1932-medalcount.png'>"
+    "Medals": "/imgs/1932-medalcount.png"
   },
   {
     "Game": "1936 Berlin, Germany",
@@ -118,7 +118,7 @@
     "Fact2": "The games were not given to the Nazi government. They were given to the Weinar government, in 1933 Adolf Hitler was appointed Chancellor and emergency laws that gave the Nazi Party control.",
     "Fact3": "The Olympic torch relay first appeared at these games. The Nazi Party tried to draw as many comparisons they could of themselves to the ancient Greeks. These games were used to normalize and legitimize the Nazi government.",
     "Fact4": "The Nazi's ideas of racial superiority were refuted several times during the games. Jesse Owens won four gold medals. Six Jewish Hungarian athletes won medals. One athlete in particular, Endre Kabos, won gold in fencing, but would eventually be killed at an extermination camp.",
-    "Medals": "<img src='imgs/1936-medalcount.png'>"
+    "Medals": "/imgs/1936-medalcount.png"
   },
   {
     "Game": "1948 London, United Kingdom",
@@ -129,7 +129,7 @@
     "Fact2": "Germany and Japan were not invited to the games. Brand new nations, India and Pakistan, joined the games. They gained their independence from Great Britain.",
     "Fact3": "Fanny Blankers-Koen (Holland) was considered the queen of the games. She won gold in the 100m, 200, 80m hurdles, and 4x100. There was controversy surrounding her because people wanted her home with her children. She was the first female celebrity at the games, and she put women sports on the Olympic map.",
     "Fact4": "The U.S. dominated the games because it was not badly affected by World War II.",
-    "Medals": "<img src='imgs/1948-medalcount.png'>"
+    "Medals": "/imgs/1948-medalcount.png"
   },
   {
     "Game": "1952 Helsinki, Finland",
@@ -140,7 +140,7 @@
     "Fact2": "During the opening ceremony, a college student walked up to the open mic and talked about peace and nuclear disarment.",
     "Fact3": "Unlike the United States, the Soviets cared a lot about women sports. They put a lot of money into their system for women sports; therefore, the Soviet Union blew out the U.S. in women sports.",
     "Fact4": "Emil Z&aacute;topek was one of Czechslovakia's most famous athletes. He won the 10,000m, 5000m and the marathon. He was trained as a runner in the communist system.",
-    "Medals": "<img src='imgs/1952-medalcount.png'>"
+    "Medals": "/imgs/1952-medalcount.png"
   },
   {
     "Game": "1956 Melbourne, Australia",
@@ -151,7 +151,7 @@
     "Fact2": "The Hungarian Revolution, which killed over 4,000 Hungarians, the Soviets crushed it during the games. Some nations, such as Spain, Holland and Switzerland boycotted. The Hungarians became the stars of the games.",
     "Fact3": "Hungary and the Soviet Union met in the water polo semifinals. A Soviet athlete punched a Hungarian player, leaving the pool filled with blood. Fans in the stands threatened to jump in and fight the Soviet athletes. The game had to end early, but Hungary won the match 4-0 and would eventually win the gold.",
     "Fact4": "The Union of Free Eastern European Sportsmen, the CIA, and Sports Illustrated hatched a plan to have Hungarian athletes defect to the U.S. After the games. four Romanian and 30 Hungarian athletes go into hiding. On Dec. 24, 1956 they arrived to the United States. Then the U.S. used them as propoganda against the Soviet Union.",
-    "Medals": "<img src='imgs/1956-medalcount.png'>"
+    "Medals": "/imgs/1956-medalcount.png"
   },
   {
     "Game": "1960 Rome, Italy",
@@ -162,7 +162,7 @@
     "Fact2": "Athletes from the global south made their mark at these games. One of these athletes is Abebe Bikila (Ethopia), a marathon runner. No one took him serious at first because he was from Africa and he showed up to the race with no shoes. What made the marathon remarkable was that the runners were running through Italy at night, passing Italian landmarks. But for Bikila, he was running past Ethiopian statues that Italy stolen. Bikil became the first black African to win the Olympic gold medal.",
     "Fact3": "A total of 83 nations participated during these games.",
     "Fact4": "New nations started their own games to push back against the imperialist and western Olympic games. The Asian games and the Games of the New Emergine Forces (GANEFO) formed.",
-    "Medals": "<img src='imgs/1960-medalcount.png'>"
+    "Medals": "/imgs/1960-medalcount.png"
   },
   {
     "Game": "1964 Tokyo, Japan",
@@ -173,7 +173,7 @@
     "Fact2": "The games are now on television.",
     "Fact3": "Two new events were added to the games: judo and volleyball (men's and women's).",
     "Fact4": "C.K. Yang (Taiwan) was expected to win gold in the decathalon and was named greatest athlete. Communist China hated it, so they contracted some of his teammates to help make him lose by bribing them entry back into China. Yang's orange juice was poisoned and he got 5th place.",
-    "Medals": "<img src='imgs/1964-medalcount.png'>"
+    "Medals": "/imgs/1964-medalcount.png"
   },
   {
     "Game": "1968 Mexico City, Mexico",
@@ -184,7 +184,7 @@
     "Fact2": "Ten days before the games, there was a protest in Mexico City against the new president. 300 people were murdered by soldiers. The government would say that the protestors fired first, but that turned out to be not true.",
     "Fact3": "Vera Caslavska (please add character codes) was a gymnast and the star of the Czechoslovakian team. She won seven gold medals and won the all-around in 1964 and 1968. She was a supporter of the Prague Spring revolution, along with Emil Zatopek, which was crushed by the Soviets. She tied for gold with a Soviet gymnast, so during the medal ceremony she turned her head in disgust during the playing of the Soviet anthem. When she returned home, she was forced into retirement and denied the opportunity to work, travel, and attend sporting events.",
     "Fact4": "Tommie Smith and John Carlos were black athletes from the United States who medaled in the 200m race. During the medal stand ceremony, they, along with Australian athlete Peter Norman, protested the treatment of black people in the United States and around the world by taking off their shoes and raising their fist. Peter Norman wore an Olympics for Human Rights badge to protest the treatment of the aboriginal people in Australia. Smith and Carlos were sent home by IOC president, Avery Brundage. Norman was not asked to return to the next Olympics by the Austrialian Olympic team.",
-    "Medals": "<img src='imgs/1968-medalcount.png'>"
+    "Medals": "/imgs/1968-medalcount.png"
   },
   {
     "Game": "1972 Munich, West Germany",
@@ -195,7 +195,7 @@
     "Fact2": "West Germany organized the games in a way to try to make the world forget about the Berlin games. The Olympic village a very little security. The guards at the games did not carry guns. Security was scaled back a lot, especially at night.",
     "Fact3": "Israel attended these games, which was symbolic because of the history of World War II. But everything would fall apart when the Black September attacks happened because Jews will once again be killed on German soil. Black September used the games as a way to show the world what was going on between Israel and Palestine (read about the conflict here).",
     "Fact4": "The West Germans hatched a plan called \"Operation Sunshine\" to save the Israel athletes and coaches who were held hostage in the Olympic village, but while they were executing the plan, TV cameras were shooting the whole thing. Therefore, the hostages and Black September were watching the whole thing on TV.",
-    "Medals": "<img src='imgs/1972-medalcount.png'>"
+    "Medals": "/imgs/1972-medalcount.png"
   },
   {
     "Game": "1976 Montreal, Canada",
@@ -206,7 +206,7 @@
     "Fact2": "Nadia Comaneci (letter html code) was a Romanian gymnast who the star of these games. She is the first to score a perfect 10 in Olympic history. She was so popular that the song \"Nadia's Theme\" was a top-ten in the U.S.",
     "Fact3": "The East German women's swimming team dominated the games, which shocked the United Sates.",
     "Fact4": "The night before the games 26 countries called their athletes back home to boycott New Zealand's participation in the games. New Zealand's rugby team travelled to South Africa, and it upset other African nations because apartheid and the Soviet Uprising in South Afica. South Africa has been banned from attending the games so far since 1968.",
-    "Medals": "<img src='imgs/1976-medalcount.png'>"
+    "Medals": "/imgs/1976-medalcount.png"
   },
   {
     "Game": "1980 Moscow, Soviet Union",
@@ -217,7 +217,7 @@
     "Fact2": "Only 80 nations participated in the games, which is the lowest number since 1956.",
     "Fact3": "Angola, Botswana, Jordan, Laos, Mozambique, and Seychelles made their first Olympic appearance.",
     "Fact4": "21 percent of the athletes were women, which was higher than any other previous games.",
-    "Medals": "<img src='imgs/1980-medalcount.png'>"
+    "Medals": "/imgs/1980-medalcount.png"
   },
   {
     "Game": "1984 Los Angeles, United States",
@@ -228,7 +228,7 @@
     "Fact2": "Eleven athletes failed drug tests at these games.",
     "Fact3": "U.S. sprinter Carl Lewis made his Olympic debut by four gold medals in the 100m, 200m, 4x100m and long jump. This was the first time this was done since Jesse Owens in 1936.",
     "Fact4": "The boycott had a bad effect on the weightlifting competition. Ninety-four of the world's top 100 ranked lifters were absent from the games.",
-    "Medals": "<img src='imgs/1984-medalcount.png'>"
+    "Medals": "/imgs/1984-medalcount.png"
   },
   {
     "Game": "1988 Seoul, South Korea",
@@ -239,7 +239,7 @@
     "Fact2": "North Korea wanted a 50/50 split of the games, but the IOC refused. North Korea, Cuba, Albania and Nicaragua (Iran-contra affair) boycotted the games.",
     "Fact3": "The men's track 100m is known as the dirtest race in history. Six of the eight runners tested positive for steroid use. After the results, Ben Johnson (Canada) was stripped of the gold medal and it was declared that Carl Lewis (USA) was the winner. Now we know that Lewis failed a drug test during the U.S. Olympic trials, but it was covered up by the U.S. Olympic Committee.",
     "Fact4": "This would be the Soviet Union's final appearance in the Olympics. Beginning Jan. 1, 1989, the Soviet Union started to collapse through a series of events. On Nov. 9. 1989 the Berlin Wall fell. ",
-    "Medals": "<img src='imgs/1988-medalcount.png'>"
+    "Medals": "/imgs/1988-medalcount.png"
   },
   {
     "Game": "1992 Barcelona, Spain",
@@ -250,7 +250,7 @@
     "Fact2": "Barcelona used the games to revive the city and was very successful financially. Future host cities will draw up a plan known as the \"Barcelona Model\" to profit from the games, but no city would live up to the success of the Barcelona games for a variety of reasons.",
     "Fact3": "The opening ceremoney was a night for the first time. Since the collapse of the Soviet Union, new nations, such as Estonia, Latvia and Lituania, emerged. The other Soviet nations competed as \"The Unified Team\" under the Olympic flag. Germany was also participated as a unified time for the first time since 1936. South Africa attended the games since 1960.",
     "Fact4": "Michael Jordan and Charles Barkley (to a lesser extent) boycotted on the medal stand during the basketball medal ceremony. Jordan did not want to wear the Reebok warm up that the USA team was required to wear, so during the ceremony he used the American flag to cover the logo. People considered it unpatriotic, and others considered it disrepectful to those who boycotted for human rights. People were especially angry because this was a time when Nike was accussed of using sweatshop labor.",
-    "Medals": "<img src='imgs/1992-medalcount.png'>"
+    "Medals": "/imgs/1992-medalcount.png"
   },
   {
     "Game": "1996 Atlanta, United States",
@@ -261,7 +261,7 @@
     "Fact2": "The city bulldozed public housing, which mainly housed black families, for the games. The homeless population was rounded up and shipped out with a one-way ticket to anywhere else in the U.S. If they refused to leave the city, they had to sit in jail until the games were over.",
     "Fact3": "There was a pipe bomb in Centinneal Park, which killed one person. Richard Jewell, who discovered the bomb, was thrown under the bus when the FBI leaked information that they suspected he planted the bomb. He in fact did not plant the bomb. Eric Rudolph was the man who planted the bomb.",
     "Fact4": "The very first women's soccer event was held. The United States, who was led by Mia Hamm, won gold. The match was not televised in the United States even though 80,000 people attended the soccer games. ",
-    "Medals": "<img src='imgs/1996-medalcount.png'>"
+    "Medals": "/imgs/1996-medalcount.png"
   },
   {
     "Game": "2000 Sydney, Australia",
@@ -272,7 +272,7 @@
     "Fact2": "During the women's gymnnastics all-around event, gymnast after gymnast were falling off the vault, resulting in some of them getting injured. In the middle of the second round, it was determined that the vault was set 5cm too low.",
     "Fact3": "Afghanistan was banned from these games due to the Taliban's oppression of women and its prohibition of sports.",
     "Fact4": "Vince Carter (USA) made one of the most famous dunks in basketball history.",
-    "Medals": "<img src='imgs/2000-medalcount.png'>"
+    "Medals": "/imgs/2000-medalcount.png"
   },
   {
     "Game": "2004 Athens, Greece",
@@ -283,7 +283,7 @@
     "Fact2": "Greece also did not build temporary venues for Olympic events. There were arenas built for every sport, leaving all of the places abandoned after the games with the exception of the basketball arena. Four years after the games Greece the global economic crisis caught up to Greece. It was $300 billion in debt, even though the games didn't cause the economic crisis, it certainly did not help.",
     "Fact3": "Major broadcasters were allowed to provide video coverage online for the first time.",
     "Fact4": "Women's wresting and women's sabre appeared for the first time.",
-    "Medals": "<img src='imgs/2004-medalcount.png'>"
+    "Medals": "/imgs/2004-medalcount.png"
   },
   {
     "Game": "2008 Beijing, China",
@@ -294,7 +294,7 @@
     "Fact2": "$40 billion were spent on the games. The city had to issue a new map every three months. People were forcibly moved from their homes. People in the West were not worried about the money being spent, they were worried about human rights, mainly because of what was going on in Darfur, Sudan.",
     "Fact3": "During the torch relay, people were trying to stop it, so the government had to get security for the torch relay.",
     "Fact4": "Because the U.S. opposed what was going on in Darfur, Sudan, the U.S. chose Lopez Lomong (track & field), an immigrant from Sudan, to carry the American flag in the opening ceremony. He was an activist who spoke out against the Sudanese and Chinese governments. China responded with that the U.S. was being hypocritical because who it was doing with oil in the Middle East.",
-    "Medals": "<img src='imgs/2008-medalcount.png'>"
+    "Medals": "/imgs/2008-medalcount.png"
   },
   {
     "Game": "2012 London, United Kingdom",
@@ -305,7 +305,7 @@
     "Fact2": "The games was described by some as a \"corporate schmoozathon\" because sponsors benefitted the most from the games where as the citizens were stuck with the bill for the games.",
     "Fact3": "Mo Farah (Great Britain) was the star of the games. He won gold in 5000m and 10,000m. He was seen as the \"proof\" that Great Britain valued diversity because he was a Somalian-born immigrant who practiced Muslim.",
     "Fact4": "Women's boxing appeared in the games for the first time.",
-    "Medals": "<img src='imgs/2012-medalcount.png'>"
+    "Medals": "/imgs/2012-medalcount.png"
   },
   {
     "Game": "2016 Rio de Janerio",
@@ -316,6 +316,6 @@
     "Fact2": "After the 1968 games, the IOC created a charter which told athletes they couldn't make any political gestures. Feyisa Lilesa (Ethiopia) made a political gesture against the Ethiopian government after getting 2nd place in the marathon. He was not punished by the IOC, but he refused to go back to Ethiopia. Now he is in the U.S. training and trying to raise funds for his people in Ethiopia.",
     "Fact3": "Baseball and softball were new events at the games.",
     "Fact4": "A Refugee Olympic Team, with a total of 10 athletes, was formed and participated under the Olympic flag. The team received the biggest ovation during the opening ceremony.",
-    "Medals": "<img src='imgs/2016-medalcount.png'>"
+    "Medals": "/imgs/2016-medalcount.png"
   }
 ]
