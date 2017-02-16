@@ -1,15 +1,18 @@
 <template>
   <div class="Game">
-    <div class="col-md-12">
+    <!--Title for each game-->
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
       <h1 class="game-title"> {{ game.Game }} </h1>
     </div>
 
-    <div class="col-md-12">
+    <!--Photo/Video for each game-->
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
       <div class="visual" v-if="game.Video === null"> {{ game.Photo }} </div>
       <div v-else> {{ game.Video }} </div>
     </div>
 
-    <div class="col-md-6">
+    <!--Key Events for each game-->
+    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
       <h2 class="events-txt">Key Events</h2>
       <ul>
         <li class="key-events"> {{ game.Fact1 }} </li>
@@ -19,7 +22,8 @@
       </ul>
     </div>
 
-    <div class="col-md-6">
+    <!--Medal Count for each game-->
+    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
       <h2 class="medals-txt">Medal Count</h2>
       <div class="medals-img"> {{ game.Medals }} </div>
     </div>
@@ -56,6 +60,7 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
+/*Game title styles*/
   h1 {
     text-align: center;
   }
@@ -64,11 +69,13 @@ export default {
     color: #0089C4;
   }
 
+/*Main photo/vid styles*/
   .visual {
     text-align: center;
     margin: 20px;
   }
 
+/*Key Events styles*/
   .events-txt {
     text-align: center;
     font-family: 'Lato', sans-serif;
@@ -80,6 +87,7 @@ export default {
     font-size: 15px;
   }
 
+/*Medal count styles*/
   .medals-txt {
     text-align: center;
     font-family: 'Lato', sans-serif;

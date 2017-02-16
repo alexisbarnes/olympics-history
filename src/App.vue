@@ -2,26 +2,26 @@
   <div id="app">
     <!-- <Menu></Menu> -->
     <!-- This is the page navigation -->
-    <div class="col-md-2">
+    <div class="hidden-xs hidden-sm col-md-2 col-lg-2">
       <Timeline v-for="game in allGames" :game="game"></Timeline>
     </div>
-
-    <div class="col-md-10"> <!--contains all info-->
-      <div class="col-md-12">
+    <!--This is the main content-->
+    <div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
+      <!--Page logo and title-->
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
         <div class="header">
           <img class="olympic-rings" src="../static/imgs/olympic-rings.png">
           <h1 class="header-txt">History of the Olympic Games</h1>
           <p class="sub-txt">*Click on the year to learn about each Olympic game</p>
         </div>
       </div>
-      <div class="col-md-12">
+      <!--Each game info-->
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
         <Game v-for="(game, index) in allGames" :game="game"> {{ currentGame(game) }} <Game>
       </div>
+    </div><!--Main content closing div-->
 
-
-    </div>
-
-  </div>
+  </div><!--App closing div-->
 </template>
 
 <script>
@@ -59,7 +59,7 @@ export default {
 <style>
 #app {
 }
-
+/*Logo and Title styles*/
 .header {
   text-align: center;
 }
