@@ -1,20 +1,25 @@
 <template>
   <div class="timeline">
-    <ul>
-        <li>
-          <div>
-          </div>
-          <p class="menu-year"> {{ game.Year }} </p>
-        </li>
-    </ul>
+        <ul>
+          <li>
+            <div>
+            </div>
+              <p class="menu-year"> {{ game.Year }} </p>
+          </li>
+        </ul>
   </div>
+
 </template>
 
 <script>
+import Game from './Game'
 export default {
   props: [
     'game'
   ],
+  components: {
+    Game
+  },
   data () {
     return {
       allGames: [],
@@ -22,7 +27,8 @@ export default {
     }
   },
   methods: {
-    currentGame () {
+    show: function (game) {
+      this.currentGame = game
     }
   }
 }
@@ -50,7 +56,7 @@ body {
   position: relative;
   width: 6px;
   margin: 0 auto;
-  padding-top: 50px;
+  padding-top: 40px;
   background: #000000;
 }
 .timeline ul li:hover {
