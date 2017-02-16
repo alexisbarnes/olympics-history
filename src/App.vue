@@ -14,6 +14,28 @@
             </ul>
       </div>
     </div>
+    <!--Mobile navbar-->
+    <nav class="navbar navbar-default hidden-md hidden-lg hidden-xl">
+      <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" @click="backHome"><img src="../static/imgs/olympic-rings.png" class="rings-mobile"></a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav">
+            <li class="mobile-list" v-for="game in allGames" @click="show(game)"> {{ game.Year }} </li>
+          </ul>
+        </div><!-- /.navbar-collapse -->
+      </div><!-- /.container-fluid -->
+    </nav>
     <!--This is the main content-->
     <div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
       <div v-if="showIntro">
@@ -127,9 +149,21 @@ body {
     float: left;
 }
 
+/*Olympic Logo on page for each game*/
 .rings-home {
   height: 150px;
   float: right;
 }
+
+/*Mobile nav logo*/
+.navbar-brand img {
+  height: 30px;
+}
+
+/*Mobile nav dropdown*/
+.mobile-list {
+  text-align: center;
+}
+
 
 </style>

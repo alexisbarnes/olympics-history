@@ -5,7 +5,9 @@
         <h2>Medal Count</h2>
         <p>*Ranked by number of gold medals</p>
       </div>
-      <img :src="game.Medals" class="medals-img">
+      <div class="medals">
+        <img :src="game.Medals" class="medals-img">
+      </div>
     </div>
   </div>
 </template>
@@ -31,6 +33,10 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
+.medals {
+  text-align: center;
+}
+
 img {
   height: 400px;
 }

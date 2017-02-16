@@ -1,15 +1,15 @@
 <template>
   <div class="Events">
     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+      <!-- <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12"> -->
         <h2 class="sub-header">Key Events</h2>
-      </div>
-      <ul>
-        <li class="keyEvents"> {{ game.Fact1 }} </p>
-        <li class="keyEvents"> {{ game.Fact2 }} </p>
-        <li class="keyEvents"> {{ game.Fact3 }} </p>
-        <li class="keyEvents"> {{ game.Fact4 }} </p>
-      </ul>
+     <!-- </div> -->
+        <ul>
+          <li class="keyEvents"> {{ game.Fact1 }} </p>
+          <li class="keyEvents"> {{ game.Fact2 }} </p>
+          <li class="keyEvents"> {{ game.Fact3 }} </p>
+          <li class="keyEvents"> {{ game.Fact4 }} </p>
+        </ul>
     </div>
   </div>
 </template>
