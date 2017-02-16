@@ -1,11 +1,13 @@
 <template>
   <div class="Events">
-    <ul>
-      <li class="key-events"> {{ game.Fact1 }} </p>
-      <li class="key-events"> {{ game.Fact2 }} </p>
-      <li class="key-events"> {{ game.Fact3 }} </p>
-      <li class="key-events"> {{ game.Fact4 }} </p>
-    </ul>
+    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+      <ul>
+        <li class="key-events"> {{ game.Fact1 }} </p>
+        <li class="key-events"> {{ game.Fact2 }} </p>
+        <li class="key-events"> {{ game.Fact3 }} </p>
+        <li class="key-events"> {{ game.Fact4 }} </p>
+      </ul>
+    </div>
   </div>
 </template>
 

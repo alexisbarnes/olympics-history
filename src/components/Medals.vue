@@ -1,7 +1,7 @@
 <template>
   <div class="Medals">
-    <div class="col-md-12">
-      <div class="count-img"> {{ game.Medals }} </h1>
+    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+      <img :src="game.Medals" class="medals-img">
     </div>
   </div>
 </template>
@@ -27,5 +27,7 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-
+img {
+  height: 260px;
+}
 </style>

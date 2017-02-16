@@ -3,7 +3,7 @@
     <!-- <Menu></Menu> -->
     <!-- This is the page navigation -->
     <div class="hidden-xs hidden-sm col-md-2 col-lg-2">
-      <!-- <Timeline v-for="game in allGames" :game="game"></Timeline> -->
+      <!-- https://webdesign.tutsplus.com/tutorials/building-a-vertical-timeline-with-css-and-a-touch-of-javascript--cms-26528-->
       <div class="timeline">
             <ul>
               <li v-for="game in allGames" @click="show(game)">
@@ -16,7 +16,15 @@
     </div>
     <!--This is the main content-->
     <div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
-      <Game :game="currentGame"></Game>
+      <div v-if="showIntro">
+        <Intro></Intro>
+      </div>
+      <div else>
+        <Game :game="currentGame"></Game>
+        <Vidphoto :game="currentGame"></Vidphoto>
+        <Events :game="currentGame"></Events>
+        <Medals :game="currentGame"></Medals>
+      </div>
     </div>
 
   </div><!--App closing div-->
@@ -25,7 +33,7 @@
 <script>
 import axios from 'axios'
 import Intro from './components/Intro'
-import Timeline from './components/Timeline'
+import Vidphoto from './components/Vidphoto'
 import Game from './components/Game'
 import Events from './components/Events'
 import Medals from './components/Medals'
@@ -33,7 +41,7 @@ export default {
   name: 'app',
   components: {
     Intro,
-    Timeline,
+    Vidphoto,
     Game,
     Events,
     Medals
@@ -41,6 +49,7 @@ export default {
   data () {
     return {
       allGames: [],
+      showIntro: true,
       currentGame: ''
     }
   },
@@ -84,7 +93,7 @@ body {
   width: 6px;
   margin: 0 auto;
   padding-top: 40px;
-  background: #000000;
+  background: #00A53C;
 }
 .timeline ul li:hover {
   background: #D5002B;
