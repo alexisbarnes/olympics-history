@@ -4,9 +4,7 @@
       <div class="header">
         <img class="olympic-rings" src="../../static/imgs/olympic-rings.png">
         <h1 class="header-txt">History of the Olympic Games</h1>
-        <div class="hidden-xs hidden-sm">
           <p class="sub-txt">*Click on the year to learn about each Olympic game</p>
-        </div>
       </div>
     </div>
   </div>
@@ -21,9 +19,8 @@ export default {
   data () {
     return {
     }
-  },
-  methods: {
   }
+
 }
 
 </script>

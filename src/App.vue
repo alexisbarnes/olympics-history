@@ -19,7 +19,11 @@
       <div v-if="showIntro">
         <Intro></Intro>
       </div>
-      <div else>
+      <div v-else>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+          <div @click="backHome"><img src="../static/imgs/olympic-rings.png" class="rings-home"></div>
+        </div>
+        <!--Thank you to Alma and Kate for helping me figure out how to loop through my json correctly!-->
         <Game :game="currentGame"></Game>
         <Vidphoto :game="currentGame"></Vidphoto>
         <Events :game="currentGame"></Events>
@@ -50,7 +54,9 @@ export default {
     return {
       allGames: [],
       showIntro: true,
-      currentGame: ''
+      currentGame: '',
+      visual: null
+
     }
   },
   mounted () {
@@ -63,6 +69,10 @@ export default {
   methods: {
     show: function (game) {
       this.currentGame = game
+      this.showIntro = false
+    },
+    backHome () {
+      this.showIntro = true
     }
   }
 }
@@ -93,14 +103,14 @@ body {
   width: 6px;
   margin: 0 auto;
   padding-top: 40px;
-  background: #00A53C;
+  background: #0089C4;
 }
 .timeline ul li:hover {
-  background: #D5002B;
+  background: #000;
 }
-.timeline ul .menu-year:hover {
+/*.timeline ul .menu-year:hover {
   color: #D5002B;
-}
+}*/
 .timeline ul li::after {
   content: '';
   position: absolute;
@@ -115,6 +125,11 @@ body {
 .menu-year {
     margin: -25px 0 0px 20px;
     float: left;
+}
+
+.rings-home {
+  height: 150px;
+  float: right;
 }
 
 </style>
