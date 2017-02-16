@@ -48,4 +48,11 @@ img {
   width: auto;
 }
 
+/*Olympic Rings responsive*/
+@media screen and (max-width: 400px) {
+  img {
+    height: 150px;
+  }
+}
+
 </style>

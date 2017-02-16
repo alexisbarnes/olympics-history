@@ -65,4 +65,11 @@ img {
   height: 300px;
 }
 
+/*Photo is responsive for mobile*/
+@media screen and (max-width: 400px) {
+  .visuals {
+    height: 250px;
+  }
+}
+
 </style>

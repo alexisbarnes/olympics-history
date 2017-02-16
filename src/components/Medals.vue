@@ -50,4 +50,10 @@ p {
   text-align: center;
   font-style: italic;
 }
+
+@media screen and (max-width: 400px) {
+  img {
+    height: 350px;
+  }
+}
 </style>
