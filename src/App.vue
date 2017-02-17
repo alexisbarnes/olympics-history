@@ -53,6 +53,15 @@
       </div>
     </div>
 
+    <!--Footer-->
+    <!-- <div class="container-fluid"> -->
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 no-padding">
+        <footer>
+          <p class="footer-txt">&copy; Alexis Barnes<br>Sources: Wikipedia &amp; Youtube</p>
+        </footer>
+      </div>
+    <!-- </div> -->
+
   </div><!--App closing div-->
 </template>
 
@@ -162,6 +171,22 @@ body {
 
 /*Mobile nav dropdown*/
 .mobile-list {
+  text-align: center;
+}
+
+/*Footer styles*/
+footer {
+  border-top: 1px solid #0089C4;
+  background-color: #fff;
+  height: 50px;
+  width: 100%;
+}
+
+.no-padding {
+  padding: 0;
+}
+
+.footer-txt {
   text-align: center;
 }
 
