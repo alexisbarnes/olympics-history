@@ -6,7 +6,7 @@
       <!-- https://webdesign.tutsplus.com/tutorials/building-a-vertical-timeline-with-css-and-a-touch-of-javascript--cms-26528-->
       <div class="timeline">
             <ul>
-              <li v-for="game in allGames" @click="show(game)">
+              <li v-for="game in allGames" @click="show(game)" :class="[game.active ? activeClass: '']">
                 <div>
                 </div>
                   <p class="menu-year"> {{ game.Year }} </p>
@@ -86,7 +86,8 @@ export default {
       allGames: [],
       showIntro: true,
       currentGame: '',
-      visual: null
+      visual: null,
+      activeClass: 'activated'
     }
   },
   mounted () {
@@ -100,6 +101,7 @@ export default {
     show: function (game) {
       this.currentGame = game
       this.showIntro = false
+      game.active = true
     },
     backHome () {
       this.showIntro = true
@@ -135,6 +137,11 @@ body {
   padding-top: 40px;
   background: #0089C4;
 }
+
+.activated {
+  background: #000 !important;
+}
+
 .timeline ul li:hover {
   background: #000;
 }
