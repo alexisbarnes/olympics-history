@@ -30,7 +30,10 @@ export default {
 /*Logo and Title styles*/
 .header {
   text-align: center;
+  position: fixed;
+  margin: 150px;
 }
+
 
 .header-txt {
   font-size: 60px;
@@ -50,8 +53,22 @@ img {
 
 /*Olympic Rings responsive*/
 @media screen and (max-width: 400px) {
+  .header-txt {
+    font-size: 30px;
+  }
+}
+
+@media screen and (max-width: 550px) {
   img {
     height: 150px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .header {
+    position: static;
+    margin: 0;
+    padding: 10px;
   }
 }
 

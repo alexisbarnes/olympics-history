@@ -55,14 +55,11 @@
       </div>
     </div>
 
-    <!--Footer-->
-    <!-- <div class="container-fluid"> -->
-      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 no-padding">
-        <footer>
-          <p class="footer-txt">&copy; Alexis Barnes<br>Sources: Wikipedia &amp; Youtube</p>
-        </footer>
-      </div>
-    <!-- </div> -->
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 no-padding">
+      <footer>
+        <p class="footer-txt">&copy; Alexis Barnes<br>Sources: Wikipedia &amp; Youtube</p>
+      </footer>
+  </div>
 
   </div><!--App closing div-->
 </template>
@@ -128,7 +125,8 @@ export default {
   box-sizing: border-box;
 }
 body {
-  font: normal 16px/1.5 "Helvetica Neue", sans-serif;
+  height: 100%;
+  font: 'Lato', sans-serif;
   background: #fff;
   color: #000000;
   overflow-x: hidden;
@@ -196,15 +194,17 @@ footer {
   background-color: #fff;
   height: 50px;
   width: 100%;
+  margin-top: 20px;
+}
+
+.footer-txt {
+  font-family: 'Lato', sans-serif;
+  text-align: center;
 }
 
 .no-padding {
   padding: 0;
-}
 
-.footer-txt {
-  text-align: center;
 }
-
 
 </style>
