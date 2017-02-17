@@ -1,9 +1,9 @@
 <template>
   <div id="app">
-    <!-- <Menu></Menu> -->
     <!-- This is the page navigation -->
     <div class="hidden-xs hidden-sm col-md-2 col-lg-2">
       <!-- https://webdesign.tutsplus.com/tutorials/building-a-vertical-timeline-with-css-and-a-touch-of-javascript--cms-26528-->
+
       <!--DESKTOP NAV-->
       <div class="timeline">
             <ul>
@@ -146,11 +146,11 @@ body {
 
 /*Activated link on timeline*/
 .activated {
-  background: #000 !important;
+  background: #B82420 !important;
 }
 
 .timeline ul li:hover {
-  background: #000;
+  background: #B82420;
 }
 /*.timeline ul .menu-year:hover {
   color: #D5002B;
@@ -186,6 +186,49 @@ body {
 /*Mobile nav dropdown*/
 .mobile-list {
   text-align: center;
+  color: #000;
+  font-family: 'Lato', sans-serif;
+  font-size: 20px;
+  background: #E6E6E6;
+  border-bottom: 1px solid #000;
+}
+
+/*Shows hamburger menu for iPad*/
+@media (max-width: 1200px) {
+    .navbar-header {
+        float: none;
+    }
+    .navbar-left,.navbar-right {
+        float: none !important;
+    }
+    .navbar-toggle {
+        display: block;
+    }
+    .navbar-collapse {
+        border-top: 1px solid transparent;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+    }
+    .navbar-fixed-top {
+        top: 0;
+        border-width: 0 0 1px;
+    }
+    .navbar-collapse.collapse {
+        display: none!important;
+    }
+    .navbar-nav {
+        float: none!important;
+        margin-top: 7.5px;
+    }
+    .navbar-nav>li {
+        float: none;
+    }
+    .navbar-nav>li>a {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .collapse.in{
+        display:block !important;
+    }
 }
 
 /*Footer styles*/
