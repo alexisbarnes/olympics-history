@@ -41,4 +41,16 @@ h2 {
   color: #0089C4;
 }
 
+li {
+  font-family: 'Lato', sans-serif;
+  font-size: 20px;
+}
+
+/*Text is smaller on phone*/
+@media screen and (max-width: 400px) {
+  li {
+    font-size: 15px;
+  }
+}
+
 </style>

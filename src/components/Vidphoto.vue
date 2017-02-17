@@ -71,5 +71,11 @@ img {
     height: 250px;
   }
 }
+/*Video player is responsive for mobile*/
+@media screen and (max-width: 700px) {
+  iframe {
+    width: 100%;
+  }
+}
 
 </style>

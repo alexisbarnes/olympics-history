@@ -56,7 +56,7 @@ p {
 
 @media screen and (max-width: 400px) {
   img {
-    height: 350px;
+    height: 400px;
   }
 }
 </style>
