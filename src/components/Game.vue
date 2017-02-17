@@ -35,6 +35,8 @@ export default {
 
   .game-title {
     color: #0089C4;
+    font-family: 'Lato', sans-serif;
+    font-size: 50px;
   }
 
 /*Main photo/vid styles*/

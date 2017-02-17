@@ -4,6 +4,7 @@
     <!-- This is the page navigation -->
     <div class="hidden-xs hidden-sm col-md-2 col-lg-2">
       <!-- https://webdesign.tutsplus.com/tutorials/building-a-vertical-timeline-with-css-and-a-touch-of-javascript--cms-26528-->
+      <!--DESKTOP NAV-->
       <div class="timeline">
             <ul>
               <li v-for="game in allGames" @click="show(game)" :class="[game.active ? activeClass: '']">
@@ -14,7 +15,8 @@
             </ul>
       </div>
     </div>
-    <!--Mobile navbar-->
+
+    <!--MOBILE NAV-->
     <nav class="navbar navbar-default hidden-md hidden-lg hidden-xl">
       <div class="container-fluid">
         <!-- Brand and toggle get grouped for better mobile display -->
@@ -98,7 +100,11 @@ export default {
       })
   },
   methods: {
+    // Looping through JSON & setting active to false, so only one game.active is true
     show: function (game) {
+      for (var i in this.allGames) {
+        this.allGames[i].active = false
+      }
       this.currentGame = game
       this.showIntro = false
       game.active = true
@@ -128,6 +134,7 @@ body {
   overflow-x: hidden;
   padding-bottom: 50px;
 }
+
 /* TIMELINE */
 .timeline ul li {
   list-style-type: none;
@@ -136,8 +143,10 @@ body {
   margin: 0 auto;
   padding-top: 40px;
   background: #0089C4;
+  cursor: pointer;
 }
 
+/*Activated link on timeline*/
 .activated {
   background: #000 !important;
 }
@@ -168,6 +177,7 @@ body {
 .rings-home {
   height: 150px;
   float: right;
+  cursor: pointer;
 }
 
 /*Mobile nav logo*/

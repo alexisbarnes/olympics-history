@@ -37,6 +37,7 @@ export default {
 <style scoped>
 h2 {
   text-align: center;
+  font-family: 'Lato', sans-serif;
   color: #0089C4;
 }
 

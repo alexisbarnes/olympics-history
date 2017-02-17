@@ -44,10 +44,13 @@ img {
 h2 {
   text-align: center;
   color: #0089C4;
+  font-family: 'Lato', sans-serif;
+
 }
 
 p {
   text-align: center;
+  font-family: 'Lato', sans-serif;
   font-style: italic;
 }
 
