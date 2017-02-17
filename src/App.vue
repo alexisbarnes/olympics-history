@@ -57,7 +57,7 @@
 
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 no-padding">
       <footer>
-        <p class="footer-txt">&copy; Alexis Barnes<br>Sources: Wikipedia &amp; Youtube</p>
+        <p class="footer-txt">&copy; <a href="www.alexisbarnes.com" target="_blank">Alexis Barnes</a><br>Sources: Wikipedia &amp; YouTube</p>
       </footer>
   </div>
 
