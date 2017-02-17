@@ -233,9 +233,9 @@ body {
 
 /*Footer styles*/
 footer {
-  border-top: 1px solid #0089C4;
-  background-color: #fff;
-  height: 50px;
+  background-color: #e6e6e6;
+  padding: 10px 0 0 0;
+  height: 60px;
   width: 100%;
   margin-top: 20px;
 }

@@ -1,6 +1,9 @@
-# olympics
+# History of Modern Games
 
-> Single-page app that tells the history of the modern games.
+> The is a single-page application that tells the history of the modern games.
+> The purpose of this project is to use demonstrate knowledge of vue.js for an advance interactive media class.
+
+[Alexis Barnes](www.alexisbarnes.com)
 
 ## Build Setup
 
