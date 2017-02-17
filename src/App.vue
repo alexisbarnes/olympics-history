@@ -87,7 +87,6 @@ export default {
       showIntro: true,
       currentGame: '',
       visual: null
-
     }
   },
   mounted () {
