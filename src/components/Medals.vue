@@ -5,6 +5,8 @@
         <h2>Medal Count</h2>
         <p>*Ranked by number of gold medals</p>
       </div>
+      
+      <!--Medal Count image-->
       <div class="medals">
         <img :src="game.Medals" class="medals-img">
       </div>

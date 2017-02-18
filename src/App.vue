@@ -38,12 +38,14 @@
         </div><!-- /.navbar-collapse -->
       </div><!-- /.container-fluid -->
     </nav>
-    <!--This is the main content-->
+
+    <!-- MAIN CONTENT -->
     <div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
       <div v-if="showIntro">
         <Intro></Intro>
       </div>
       <div v-else>
+        <!--Logo shows for each game-->
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
           <div @click="backHome"><img src="../static/imgs/olympic-rings.png" class="rings-home"></div>
         </div>
@@ -55,6 +57,7 @@
       </div>
     </div>
 
+    <!--FOOTER-->
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 no-padding">
       <footer>
         <p class="footer-txt">&copy; <a href="www.alexisbarnes.com" target="_blank">Alexis Barnes</a><br>Sources: Wikipedia &amp; YouTube</p>
@@ -106,6 +109,7 @@ export default {
       this.showIntro = false
       game.active = true
     },
+    //  Shows intro when click on Olympics logo
     backHome () {
       this.showIntro = true
     }
@@ -124,6 +128,7 @@ export default {
   padding: 0;
   box-sizing: border-box;
 }
+
 body {
   height: 100%;
   font: 'Lato', sans-serif;
@@ -152,9 +157,7 @@ body {
 .timeline ul li:hover {
   background: #B82420;
 }
-/*.timeline ul .menu-year:hover {
-  color: #D5002B;
-}*/
+
 .timeline ul li::after {
   content: '';
   position: absolute;
