@@ -30,6 +30,7 @@ export default {
     }
   },
   methods: {
+    // Videoplayer functions
     ready (player) {
       this.player = player
     },
@@ -68,7 +69,8 @@ img {
 /*Photo is responsive for mobile*/
 @media screen and (max-width: 400px) {
   .visuals {
-    height: 250px;
+    height: 150px;
+    margin: 0;
   }
 }
 /*Video player is responsive for mobile*/

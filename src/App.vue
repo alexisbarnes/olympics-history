@@ -60,7 +60,7 @@
     <!--FOOTER-->
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 no-padding">
       <footer>
-        <p class="footer-txt">&copy; <a href="www.alexisbarnes.com" target="_blank">Alexis Barnes</a><br>Sources: Wikipedia &amp; YouTube</p>
+        <p class="footer-txt">&copy; <a href="https://github.com/alexisbarnes" target="_blank">Alexis Barnes</a><br>Sources: <a href="https://en.wikipedia.org/wiki/1972_Summer_Olympics_medal_table" target="_blank">Wikipedia</a> &amp; <a href="https://www.youtube.com" target="_blank">YouTube</a></p>
       </footer>
   </div>
 
@@ -246,6 +246,15 @@ footer {
 .footer-txt {
   font-family: 'Lato', sans-serif;
   text-align: center;
+}
+
+footer a {
+  color: #B82420;
+}
+
+footer a:hover {
+  color: #0089C4;
+  text-decoration: none;
 }
 
 .no-padding {

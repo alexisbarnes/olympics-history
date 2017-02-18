@@ -5,7 +5,7 @@
         <h2>Medal Count</h2>
         <p>*Ranked by number of gold medals</p>
       </div>
-      
+
       <!--Medal Count image-->
       <div class="medals">
         <img :src="game.Medals" class="medals-img">
@@ -58,7 +58,7 @@ p {
 
 @media screen and (max-width: 400px) {
   img {
-    height: 400px;
+    height: 350px;
   }
 }
 </style>

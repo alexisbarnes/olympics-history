@@ -3,8 +3,8 @@
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
       <div class="header">
         <img class="olympic-rings" src="../../static/imgs/olympic-rings.png">
-        <h1 class="header-txt">History of the Olympic Games</h1>
-          <p class="sub-txt">*Click on the year to learn about each Olympic game</p>
+        <h1 class="header-txt">History of the Modern Olympic Games</h1>
+          <p class="sub-txt">*Click on a year to learn about each Olympic game</p>
       </div>
     </div>
   </div>
@@ -31,7 +31,7 @@ export default {
 .header {
   text-align: center;
   position: fixed;
-  margin: 150px;
+  margin: 120px;
 }
 
 

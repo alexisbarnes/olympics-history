@@ -39,34 +39,4 @@ export default {
     font-size: 50px;
   }
 
-/*Main photo/vid styles*/
-  .visual {
-    text-align: center;
-    margin: 20px;
-  }
-
-/*Key Events styles*/
-  .events-txt {
-    text-align: center;
-    font-family: 'Lato', sans-serif;
-    color: #0089C4;
-  }
-
-  li {
-    font-family: 'Lato', sans-serif;
-    font-size: 15px;
-  }
-
-/*Medal count styles*/
-  .medals-txt {
-    text-align: center;
-    font-family: 'Lato', sans-serif;
-    color: #0089C4;
-  }
-
-  .medals-img {
-    text-align: center;
-    margin: 20px;
-  }
-
 </style>
