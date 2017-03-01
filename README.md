@@ -1,4 +1,4 @@
-# History of Modern Games
+# History of the Modern Games
 
 > The is a single-page application that tells the history of the modern games.
 > The purpose of this project is to use demonstrate knowledge of vue.js for an advance interactive media class.
